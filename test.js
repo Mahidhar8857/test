@@ -1,2 +1,3 @@
 console.log("hello")
-console.log("how are you doing?")
+console.log("welcome to the coures");
+
